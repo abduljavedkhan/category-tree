@@ -27,8 +27,7 @@ Following stack has been used in the project
 - [ReactJs](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [React-Redux](https://react-redux.js.org/)
-- [Redux tree-view](https://github.com/reduxjs/redux/tree/master/examples/tree-view)
 
 ## ScreenShot
 
-![image](https://user-images.githubusercontent.com/44355278/130893200-de29c32f-e469-4743-95bf-fd46ba18694e.png)
+![image](https://user-images.githubusercontent.com/44355278/130894454-aa421e50-3098-4d60-a992-3a0ec69d4c59.png)
