@@ -1,5 +1,7 @@
 # Category Tree - [Live Url](https://category-tree.netlify.app/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/92f1677a-f125-4570-8885-673e27a5767e/deploy-status)](https://app.netlify.com/sites/category-tree/deploys)
+
 An application for Category tree using redux.
 
 ## MVP
