@@ -24,12 +24,12 @@ export const Node = (props) => {
     deleteNode(id);
   };
 
-  const handleEditClick = (e) => {
-    e.preventDefault();
-    const newCategory = prompt("Update Sub Category");
-    const { updateChild, parentId, id } = props;
-    updateChild(parentId, id, newCategory);
-  };
+  // const handleEditClick = (e) => {
+  //   e.preventDefault();
+  //   const newCategory = prompt("Update Sub Category");
+  //   const { updateChild, parentId, id } = props;
+  //   updateChild(parentId, id, newCategory);
+  // };
 
   const [showAction, setShowAction] = useState(false);
   const handleClick = (e) => {
