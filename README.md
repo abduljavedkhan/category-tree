@@ -30,4 +30,8 @@ Following stack has been used in the project
 
 ## ScreenShot
 
+### 1. Root Level Categories
+![image](https://user-images.githubusercontent.com/44355278/130896928-077d7886-fd08-442e-819e-1cc3706697e6.png)
+
+### 2 Categories and it's sub Categories
 ![image](https://user-images.githubusercontent.com/44355278/130894454-aa421e50-3098-4d60-a992-3a0ec69d4c59.png)
