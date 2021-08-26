@@ -10,9 +10,9 @@ An application for Category tree using redux.
 - On Right Click of any category or subcategory, the user should be able to see the Action
 menu for that category.
 - The Action menu should include the below options.
-1. Edit Category
-2. Add Subcategory
-3. Delete Category (This should also delete all subcategories under the category)
+1. Delete Category (This should also delete all subcategories under the category)
+2. Edit Category
+3. Add Subcategory
 
 ## Steps to run the project
 ```
