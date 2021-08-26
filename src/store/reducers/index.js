@@ -70,7 +70,7 @@ const deleteMany = (state, ids) => {
   return state;
 };
 
-export default (state = {}, action) => {
+const reducer = (state = {}, action) => {
   const { nodeId } = action;
   if (typeof nodeId === "undefined") {
     return state;
@@ -86,3 +86,5 @@ export default (state = {}, action) => {
     [nodeId]: node(state[nodeId], action),
   };
 };
+
+export default reducer;
