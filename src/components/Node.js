@@ -33,6 +33,7 @@ export const Node = (props) => {
 
   const [showAction, setShowAction] = useState(false);
   const handleClick = (e) => {
+    e.preventDefault();
     if (e.type === "click") {
       setShowAction(true);
     } else if (e.type === "contextmenu") {
